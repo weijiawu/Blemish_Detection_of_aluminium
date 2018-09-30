@@ -4,7 +4,7 @@
 
 ## <font color=#008000>比赛介绍
 
-<div align=center> ![Alt text](https://github.com/weijiawu/Blemish_Detection_of_aluminium/raw/master/image/1537258335(1).png)
+<div align=center> ![Alt text](https://github.com/weijiawu/Blemish_Detection_of_aluminium/tree/master/image/1537258335(1).png)
 
 **<font color=#08000><font size=4>数据源：**
 
